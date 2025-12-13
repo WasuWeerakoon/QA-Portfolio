@@ -1,10 +1,19 @@
 # 1. Introduction
-This Test Plan outlines the strategy, scope, resources, schedule, and approach for testing the Login module of the application.  
+This Test Plan outlines the strategy, scope, resources, schedule, and approach for testing the **Login module** of the **Seagrass Sri Lanka Web Application**.  
 The purpose is to ensure that the login functionality is secure, reliable, and performs as expected before release.
 
 ---
 
-# 2. Objectives
+# 2. Project Information
+- **Project Name:** Seagrass Sri Lanka  
+- **Application Type:** Web Application  
+- **Module Under Test:** User Login  
+- **Test Environment:** Production (Hosted)  
+- **Application URL:**  
+  - Hosted (if available): https://polite-desert-02a5b7610.2.azurestaticapps.net/
+---
+
+# 3. Objectives
 - Verify that valid users can successfully log in.  
 - Ensure invalid login attempts are handled securely.  
 - Validate form input, UI behavior, and error messages.  
@@ -13,7 +22,7 @@ The purpose is to ensure that the login functionality is secure, reliable, and p
 
 ---
 
-# 3. Scope of Testing
+# 4. Scope of Testing
 
 ## **In Scope**
 - Login form UI testing  
@@ -32,9 +41,9 @@ The purpose is to ensure that the login functionality is secure, reliable, and p
 
 ---
 
-# 4. Test Approach
+# 5. Test Approach
 
-## **4.1 Testing Types**
+## **5.1 Testing Types**
 - Functional Testing  
 - UI/UX Testing  
 - Boundary Value Testing  
@@ -43,14 +52,14 @@ The purpose is to ensure that the login functionality is secure, reliable, and p
 - Browser Compatibility Testing  
 - Regression Testing  
 
-## **4.2 Testing Levels**
+## **5.2 Testing Levels**
 - Component Testing (login page)  
-- Integration Testing (login + dashboard)  
+- Integration Testing (login → home/dashboard)  
 - System Testing  
 
 ---
 
-# 5. Entry & Exit Criteria
+# 6. Entry & Exit Criteria
 
 ## **Entry Criteria**
 - Login feature requirements shared.  
@@ -65,7 +74,7 @@ The purpose is to ensure that the login functionality is secure, reliable, and p
 
 ---
 
-# 6. Test Deliverables
+# 7. Test Deliverables
 - Test Plan  
 - Test Scenarios  
 - Test Cases  
@@ -75,18 +84,19 @@ The purpose is to ensure that the login functionality is secure, reliable, and p
 
 ---
 
-# 7. Test Environment
-**Environment:** Staging / QA  
+# 8. Test Environment
+**Environment:** Localhost / QA  
 **Browsers:** Chrome, Firefox, Edge  
 **Devices:** Laptop + Mobile  
 
-**Tools:**  
-- Excel (for Test Cases & Bug Reports)  
-- GitHub (for project hosting)  
+**Tools Used:**  
+- Microsoft Excel – Test Cases & Bug Reports  
+- GitHub – QA Portfolio hosting  
+- VS Code – Documentation  
 
 ---
 
-# 8. Test Schedule
+# 9. Test Schedule
 
 | Task                 | Estimated Time |
 | -------------------- | -------------- |
@@ -99,7 +109,7 @@ The purpose is to ensure that the login functionality is secure, reliable, and p
 
 ---
 
-# 9. Risks & Mitigation
+# 10. Risks & Mitigation
 
 | Risk                   | Mitigation                  |
 | ---------------------- | --------------------------- |
@@ -109,7 +119,7 @@ The purpose is to ensure that the login functionality is secure, reliable, and p
 
 ---
 
-# 10. Approval
+# 11. Approval
 
 | Role         | Name   | Signature |
 | ------------ |--------|---------- |
