@@ -1,67 +1,79 @@
-# Quality Assurance (QA) Portfolio
+# Seagrass Sri Lanka – QA Testing Project
 
-## 👋 About Me
-Hello! I am **Wasana Weerakon**, a final-year student at **Uva Wellassa University**.  
-I am passionate about **Quality Assurance**, software testing, and ensuring software is bug-free and user-friendly.  
-I am aiming for a **QA Internship** to apply my skills and gain real-world experience.
+## 📌 Project Overview
+This project documents the **manual testing activities** performed for the  
+**Seagrass Sri Lanka Web Application**, focusing on **Login and Registration modules**.
 
----
-
-## 💼 Portfolio Overview
-This repository showcases my **QA projects, manual testing, API testing, test cases, bug reports, and SQL practice**.  
-It demonstrates my understanding of QA theory, SDLC/STLC, and practical testing skills.
-
----
-
-## 📂 Portfolio Structure
-
-### 01_Test_Case_Design
-- Manual test cases for web applications
-- Positive & negative scenarios
-
-### 02_Bug_Reports
-- Sample bug reports with severity & priority
-- Screenshots included
-
-### 03_Test_Plan
-- Example test plan documents
-- Scope, objectives, strategy
-
-### 04_Test_Scenarios
-- High-level testing scenarios
-
-### 05_Test_Artifacts
-- QA checklists
-- Supporting documents
-
-### 06_Automation_Samples
-- Selenium / Playwright test scripts (optional)
-- Postman API automation
-
-### 07_API_Testing
-- Postman collections
-- API test cases & bug reports
-
-### 08_UI_UX_Testing
-- UI/UX testing notes
-
-### 09_Performance_Testing
-- JMeter / performance testing reports
+The goal of this testing is to ensure:
+- Secure authentication
+- Proper input validation
+- Correct error handling
+- Good user experience
 
 ---
 
-## 🛠 Skills & Tools
-- **Manual Testing:** Test Cases, Bug Reports, Test Plan  
-- **Tools:** Jira, TestRail, Postman, SQL  
-- **Testing Types:** Functional, Non-Functional, Regression, Smoke, UAT  
-- **Automation (Optional):** Selenium, Playwright  
+## 🌐 Application Details
+- **Project Name:** Seagrass Sri Lanka
+- **Application Type:** Web Application
+- **Testing Type:** Manual Testing
+- **Environment:** Hosted / Production
+- **Application URL:**  
+  https://polite-desert-02a5b7610.2.azurestaticapps.net/
 
 ---
 
-## 📫 Contact
-- **LinkedIn:** www.linkedin.com/in/wasuweerakon  
-- **Email:** nilakshiwasana885@gmail.com  
+## 🔍 Modules Tested
+
+### ✔ Login Module
+- Valid & invalid login scenarios
+- Field validation
+- Error messages
+- Session handling
+- Logout functionality
+- Browser & device checks
+
+### ✔ Registration Module
+- User registration with valid data
+- Mandatory field validation
+- Invalid input handling
+- Successful account creation
 
 ---
 
-Thank you for visiting my QA Portfolio!
+## 📂 QA Documents Included
+
+- **Test Plan**
+- **Test Scenarios**
+- **Test Cases (Excel)**
+- **Bug Reports (Excel)**
+- **Test Summary Report**
+- **Test Artifacts (Screenshots)**
+
+All documents are structured following **industry-standard QA practices**.
+
+---
+
+## 🧪 Testing Outcome
+
+### Login Module
+- Bugs identified and documented
+- Module **not ready for production** without fixes
+
+### Registration Module
+- All test cases passed
+- No defects identified
+- Module **ready for release**
+
+---
+
+## 🧰 Tools Used
+- Microsoft Excel – Test Cases & Bug Reports
+- VS Code – Documentation
+- GitHub – Version control & portfolio hosting
+- Web Browsers – Chrome, Edge, Firefox
+
+---
+
+## 👩‍💻 Tested By
+**QA Engineer:** Wasana Weerakon  
+**Date:** December 2025
