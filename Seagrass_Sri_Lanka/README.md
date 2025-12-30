@@ -4,6 +4,9 @@
 This project documents the **manual testing activities** performed for the  
 **Seagrass Sri Lanka Web Application**, focusing on **Login and Registration modules**.
 
+Due to **cloud hosting cost considerations**, testing was intentionally limited
+to critical authentication-related modules only.
+
 The goal of this testing is to ensure:
 - Secure authentication
 - Proper input validation
