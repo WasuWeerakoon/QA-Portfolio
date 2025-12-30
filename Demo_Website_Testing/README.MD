@@ -9,7 +9,15 @@ The objective of this project is to showcase:
 - Realistic bug reporting
 - Professional QA workflow
 
-Unlike live production systems, a **demo website** was selected to allow **full feature testing** without cost, risk, or data impact.
+A demo website was selected to allow **full feature testing** without cost, risk, or data impact.
+
+---
+
+## 🌐 Application Details
+- **Website Name:** Automation Exercise
+- **Application Type:** E-commerce Web Application
+- **Application URL:** https://automationexercise.com/
+- **Testing Environment:** Public Demo Site
 
 ---
 
@@ -23,73 +31,65 @@ Unlike live production systems, a **demo website** was selected to allow **full 
 ---
 
 ## 🧩 Modules Tested
-The following modules were tested in detail:
-
-- **User Registration**
-- **User Login**
-- **Product Listing & Details**
-- **Cart Management**
-- **Checkout Process**
-
-Each module includes test scenarios, test cases, and execution results.
+- User Registration
+- User Login
+- Product Listing & Product Details
+- Cart Management
+- Checkout Process
 
 ---
 
 ## 📂 QA Artifacts Included
 
 ### 📁 Test_Plan
-- Overall testing strategy
-- Scope, objectives, approach
+- Test strategy, scope, and objectives
 - Entry & exit criteria
 - Risks & mitigation
 
 ### 📁 Test_Scenarios
-- High-level functional scenarios for each module
+- High-level scenarios for each module
 
 ### 📁 Test_Case_Design
 - Detailed manual test cases (Excel)
-- Positive & negative test cases
-- Priority & execution status included
+- Positive & negative scenarios
+- Priority & execution status
 
 ### 📁 Bug_Reports
-- Documented defects with:
-  - Severity
-  - Priority
-  - Steps to reproduce
-  - Expected vs actual results
+- Defect reports with severity & priority
+- Steps to reproduce
+- Expected vs actual results
 
 ### 📁 Test_Summary_Report
-- Execution summary
-- Pass/fail metrics
+- Execution metrics
 - Defect summary
 - Release readiness conclusion
 
 ---
 
-## 🧪 Testing Type
+## 🧪 Testing Types
 - Manual Testing
 - Functional Testing
 - UI Validation
 - Regression Testing (basic)
-- Cross-browser checks (basic)
+- Cross-browser Testing (basic)
 
 ---
 
 ## 🧰 Tools Used
-- Microsoft Excel – Test Cases & Bug Reports
+- Microsoft Excel – Test Case & Bug Report management
 - VS Code – Documentation
-- GitHub – Version control & portfolio hosting
+- GitHub – Version control & QA portfolio hosting
 - Web Browsers – Chrome, Edge, Firefox
 
 ---
 
 ## 📊 Test Outcome
-- Functional issues were identified and documented
-- Bugs were logged with appropriate severity & priority
-- Test summary report created to evaluate release readiness
+- Functional and UI defects identified
+- Bugs documented with appropriate severity & priority
+- Test summary prepared for evaluation
 
 ---
 
 ## 👩‍💻 Tested By
-**QA Engineer:** Wasana Weerakon  
+**QA Role:** Wasana Weerakon   
 **Year:** 2025
